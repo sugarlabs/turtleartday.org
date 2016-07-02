@@ -68,9 +68,9 @@ Interview with Walter Bender
 
 Here is a collection of starting materials from basic logos to finished posters. You can use these graphic elements to make gifts to participants.	
 
-* Logo Day TortugArte ( <a class="HiperAzul" href="/img/dia-tortugarte.png">png</a> | <a class="HiperAzul" href="/img/dia-de-tortugarte.svg">svg</a> )
+* Logo Day TortugArte ( <a class="HiperAzul" href="/img/dia-tortugarte.png">png</a>  <a class="HiperAzul" href="/img/dia-de-tortugarte.svg">svg</a> )
 
-* TurtleArt Day Logo ( <a class="HiperAzul" href="/img/turtle-day.png">png</a> | <a class="HiperAzul" href="/img/turtle-day.svg">svg</a> )
+* TurtleArt Day Logo ( <a class="HiperAzul" href="/img/turtle-day.png">png</a> <a class="HiperAzul" href="/img/turtle-day.svg">svg</a> )
 
 * Card Day TortugArte - Front ( <a class="HiperAzul" href="/img/postcard-front-es.svg">svg</a> )
 
@@ -80,13 +80,13 @@ Here is a collection of starting materials from basic logos to finished posters.
 
 * TurtleArt Day Card - Back ( <a class="HiperAzul" href="/img/postcard-back-en.svg">svg</a> )
 
-* turtlelove Logo ( <a class="HiperAzul" href="/img/turtle-love.png">png</a> | <a class="HiperAzul" href="/img/turtle-love.svg">svg</a> )
+* turtlelove Logo ( <a class="HiperAzul" href="/img/turtle-love.png">png</a> <a class="HiperAzul" href="/img/turtle-love.svg">svg</a> )
 
-* Turtles / Tortugas ( <a class="HiperAzul" href="/img/turtles.png">png</a> | <a class="HiperAzul" href="/img/turtles.svg">svg</a> )
+* Turtles / Tortugas ( <a class="HiperAzul" href="/img/turtles.png">png</a> <a class="HiperAzul" href="/img/turtles.svg">svg</a> )
 
-* Poster de Día de TortugArte - 8.5x11 (<a class="HiperAzul">png</a> | <a class="HiperAzul">pdf</a> | <a class="HiperAzul">ai</a>)<br />
+* Poster de Día de TortugArte - 8.5x11 (<a class="HiperAzul">png</a> <a class="HiperAzul">pdf</a> <a class="HiperAzul">ai</a>)<br />
 
-* Poster de Día de TortugArte - 11x17 (<a class="HiperAzul">png</a> | <a class="HiperAzul">pdf</a> | <a class="HiperAzul">ai</a>)<br />
+* Poster de Día de TortugArte - 11x17 (<a class="HiperAzul">png</a> <a class="HiperAzul">pdf</a> <a class="HiperAzul">ai</a>)<br />
 
 #### Other resources	
 
