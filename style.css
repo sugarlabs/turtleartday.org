@@ -1,0 +1,22 @@
+/*
+Colors from Material Palette Light Green, https://material.google.com/style/color.html#color-color-palette 
+*/
+body {
+    font-family: 'Alegreya Sans';
+    background-color: #f1f8e9;
+    color: #212121;
+    padding: 3em 10em;
+    max-width: 30em;
+}
+
+h1 {
+    color: #33691e; 
+}
+h2 {
+    font-familY: "Alegreya Sans SC";
+    background-color: #C5E1A5;
+    padding: 1em 0.3em;
+}
+a:link {
+    color: #33691e;
+}
