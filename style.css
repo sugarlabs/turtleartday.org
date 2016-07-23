@@ -20,3 +20,12 @@ h2 {
 a:link {
     color: #33691e;
 }
+a:visited {
+    color: #512da8;
+}
+a:hover {
+    color: #f57f17;
+}
+a:active {
+    color: #33691e;
+}
