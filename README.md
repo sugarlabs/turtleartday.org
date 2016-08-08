@@ -39,9 +39,25 @@ In November 2016 we know of events being planned in:
 
 Check out these famous Turtle Artists from different countries around the world:
 
-* Brian Silverman [English](https://www.youtube.com/watch?v=FHDLRqGyONo)
-* Artemis Papert [English](https://www.youtube.com/watch?v=lHEfedZiUgw) [French](https://www.youtube.com/watch?v=E6-6X5fQJ0c) [Spanish](https://www.youtube.com/watch?v=oNL6lVL8UEQ)
-* Trinidad Guzman [Spanish](https://www.youtube.com/watch?v=gqW6KUShVe8)
+#### Brian Silverman
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FHDLRqGyONo" frameborder="0" allowfullscreen></iframe>
+
+* [English](https://www.youtube.com/watch?v=FHDLRqGyONo)
+
+#### Artemis Papert
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lHEfedZiUgw" frameborder="0" allowfullscreen></iframe>
+
+* [English](https://www.youtube.com/watch?v=lHEfedZiUgw) 
+* [French](https://www.youtube.com/watch?v=E6-6X5fQJ0c) 
+* [Spanish](https://www.youtube.com/watch?v=oNL6lVL8UEQ)
+
+#### Trinidad Guzman
+
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/gqW6KUShVe8" frameborder="0" allowfullscreen></iframe>
+
+* [Spanish](https://www.youtube.com/watch?v=gqW6KUShVe8)
 
 ## Examples of Turtle Art
 
