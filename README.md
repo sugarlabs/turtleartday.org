@@ -121,5 +121,7 @@ Sugar Labs® is a volunteer-driven member project of Software Freedom Conservanc
 Originally part of the One Laptop Per Child project, Sugar Labs coordinates volunteers around the world who are passionate about providing educational opportunities to children through the Sugar Learning Platform. 
 Sugar Labs® is supported by donations and is seeking funding to accelerate development.
 
+To make a donation, please get in contact with us via [the IAEP mailing list](http://lists.sugarlabs.org/listinfo/iaep)
+
 Comments or questions about this site? 
 Please let us know on the [Github issue tracker](https://github.com/sugarlabs/turtleartday.org/issues)
