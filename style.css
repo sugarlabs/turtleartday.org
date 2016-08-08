@@ -35,3 +35,7 @@ a:hover {
 a:active {
     color: #33691e;
 }
+ul {
+    padding: 0em;
+    margin: 1em;  
+}
