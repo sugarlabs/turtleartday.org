@@ -41,13 +41,13 @@ Check out these famous Turtle Artists from different countries around the world:
 
 #### Brian Silverman
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FHDLRqGyONo" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FHDLRqGyONo" frameborder="0" allowfullscreen></iframe></div>
 
 * [English](https://www.youtube.com/watch?v=FHDLRqGyONo)
 
 #### Artemis Papert
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lHEfedZiUgw" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lHEfedZiUgw" frameborder="0" allowfullscreen></iframe></div>
 
 * [English](https://www.youtube.com/watch?v=lHEfedZiUgw) 
 * [French](https://www.youtube.com/watch?v=E6-6X5fQJ0c) 
@@ -55,7 +55,7 @@ Check out these famous Turtle Artists from different countries around the world:
 
 #### Trinidad Guzman
 
-<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/gqW6KUShVe8" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="420" src="https://www.youtube-nocookie.com/embed/gqW6KUShVe8" frameborder="0" allowfullscreen></iframe></div>
 
 * [Spanish](https://www.youtube.com/watch?v=gqW6KUShVe8)
 
