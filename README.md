@@ -30,10 +30,9 @@ No matter whether you are an experienced or new to the community, Turtle Art Day
 
 ### When is the next Turtle Art Day?
 
-In November 2016 we know of events being planned in:
+In August 2018 we know of events being planned in:
 
-* Abuja, Nigeria
-* Uruguay
+* Nigeria
 
 ### Interviews
 
